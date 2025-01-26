@@ -19,6 +19,7 @@
 3. The third clue, found in the sandbox, directed me to the pond in the park. There, I found the carpenter but no weapon, ruling them out as a suspect.
 4. The fourth clue led me to the town hall records. After checking the town hall and offices with no relevant findings, I focused on the records. I found leather gloves, which I ruled out as the weapon.
 5. The fifth clue led me to the greenhouse in the houses area. I searched the houses and cottage, finding the banker but no relevant information. I then searched the mansion, but found nothing. Finally, in the garden, I found the greenhouse. After searching it, there was only the empty room, theres only one thing left to do, check the sixth clue in there.
+6. Upon reviewing the sixth clue, it became clear that the greenhouse was indeed the crime scene. The pristine condition of the room and witness accounts matched, confirming no one was present when the crime occurred. This solidified the conclusion that the murder took place here.
 
 
 ### Deductions
@@ -28,13 +29,24 @@
 4. Finding the gloves rules them out as the weapon, leaving the letter opener as the only possible murder weapon.
 5. The greenhouse was likely the crime scene, as it was empty and the previous clue led me there.
 
-
 ### Case State
-- Location: Greenhouse (need more evidence)
-- Killer: The Tailor (need more evidence)
-- Weapon: Letter Opener (need more evidence)
+**THE CASE HAS BEEN SOLVED**
+
+- Location: Greenhouse
+- Killer: The Tailor
+- Weapon: Letter Opener
 
 
 **Summary**
 
-The crime location remains an empty area, most likely the greenhouse given the evidence. The weapon used is now most likely to be a letter opener, and the only remaining suspect is the tailor. All other leads and suspects have been ruled out. Further clues may help confirm this deduction.
+The case is solved. The tailor is the murderer, and the letter opener was the weapon used. The crime took place in the greenhouse, as confirmed by the clues and evidence.
+
+
+### Additional
+**Final Clue**
+
+*"Your detective instincts were right - this empty room holds the answers. The pristine state of things confirms this is where it happened.*
+
+*Your careful detective work has paid off. The empty state of this room matches*
+*witness accounts - no one was around when the crime occurred. This must be*
+*where the murderer carried out their plan!"*
